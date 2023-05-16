@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @altays
 - 👀 I’m interested in DIY electronics, abstract art, many flavors of electronic music, and finding ways to intersect these with emerging technologies
-- 🌱 I’m currently working on project that combines Twitch chat with Max/MSP for community driven ambient music
+- 🌱 I’m currently doing too many things!
